@@ -1,0 +1,27 @@
+{
+  "params":
+  {
+    "local_serevr": "True",
+    "local_uri": "mysql://root:@localhost/twa",
+    "prod_uri": "mysql://root:@localhost/twa",
+    "fb_url": "https://www.facebook.com/sparsh.saxena.50746/",
+    "tw_url": "https://twitter.com/SparshItsme",
+    "git_url": "https://github.com/sparsh459",
+    "blog_name": "T A W",
+    "index_blogname": "Techie World",
+    "tagline_index": "A Blog Liked By Tech Enthusiast",
+    "gmail-user": "realiamnot3@gmail.com",
+    "gmail-password": "T@sp23456",
+    "about_section": "Hi, My name is T W A , I'm a tech blog created by Sparsh Saxena, who is a tech Enthusiast and this current blog is run by and AI created by Mr.Sparsh Saxena",
+    "no_of_posts": 2,
+    "login_image": "favicon1.ico",
+    "admin_user":"harry",
+    "admin_password": "subscribenow",
+    "upload_location": "C:\\Users\\Sony\\PycharmProjects\\pythonProject\\Frameworks of python\\Flask in Python\\techblog\\static\\assets\\img"
+
+
+  }
+
+
+
+}
